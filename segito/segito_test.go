@@ -1,4 +1,4 @@
-package main
+package segito
 
 import (
 	"database/sql"
